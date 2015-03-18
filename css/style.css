@@ -1,6 +1,6 @@
 /*------ template stylization ------*/
 body {
-	background: #2f3133 url(../img/patternbg.jpg) 0 0 repeat;
+	background: #428bca url(../img/patternbg2.jpg) 0 0 repeat;
 }
 /*----------- Back to top --------------*/
 #toTop {
@@ -25,12 +25,12 @@ body {
 .row_1 {
 	text-align: center;
 	padding: 30px 0;
-	background: #2f3133 url(../img/patternbg.jpg) 0 0 repeat;
+	background: #fff url(../img/patternbg2.jpg) 0 0 repeat;
 }
 .row_2 {
 	text-align: center;
 	padding: 22px 0 0;
-	background: #2f3133 url(../img/patternbg.jpg) 0 0 repeat;
+	background: #fff url(../img/patternbg2.jpg) 0 0 repeat;
 }
 .row_3 {
 	padding: 43px 0 13px;
@@ -215,7 +215,7 @@ header {
 }
 /*-----------------navbar---------------------*/
 .menuheader {
-	background: #545658;
+	background: #428bca;
 }
 .tm_navbar {
 	position: relative;
@@ -1354,7 +1354,7 @@ address .info p:first-child {
 /*--- content end ------*/
 /*--------- footer --------- */
 footer {
-	padding: 64px 0;
+	/*padding: 64px 0;*/
 	background: url("../img/linefooter.jpg") top center repeat-x;
 }
 /*--------------social----------------*/
